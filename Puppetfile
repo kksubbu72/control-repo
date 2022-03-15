@@ -27,3 +27,7 @@ mod 'puppetlabs-puppet_metrics_collector', '7.0.3'
 #mod 'apache',
 #  git:    'https://github.com/puppetlabs/puppetlabs-apache',
 #  branch: 'docs_experiment'
+
+mod ‘modcustomfact’,
+  git:     ‘git@github.com:kksubbu72/modcustomfact.git’,
+  branch:  ‘production’
