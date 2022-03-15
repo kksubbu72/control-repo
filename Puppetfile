@@ -31,3 +31,4 @@ mod 'puppetlabs-puppet_metrics_collector', '7.0.3'
 mod ‘modcustomfact’,
   git:     ‘git@github.com:kksubbu72/modcustomfact.git’,
   branch:  ‘production’
+
