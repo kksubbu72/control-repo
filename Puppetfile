@@ -16,6 +16,7 @@ mod 'puppetlabs-puppet_metrics_collector', '7.0.3'
 mod 'puppetlabs-influxdb', '0.3.0'
 mod 'puppetlabs-puppet_operational_dashboards', '0.2.0'
 mod 'puppet-archive', '6.0.2'
+mod 'puppetlabs-vcsrepo', '5.1.0'
 
 
 
